@@ -35,7 +35,7 @@ const Login = () => {
     <div className="bg-white h-[100vh] w-full flex justify-between items-center">
       <img
         className="w-[60%] h-[100vh] object-cover"
-        src="https://www.collegesignal.com/images/colleges/cz_5ebb845e75516201342/cover/psr%20engineering%20college%20infra1-m9326-original.jpg"
+        src="https://www.sanjac.edu/_resources/images/Locations-South_South-Campus_2016017_N61_1000x982px.jpg"
         alt=""
       />
       <div className="w-[40%] flex justify-center items-start flex-col pl-8">
